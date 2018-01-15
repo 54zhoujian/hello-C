@@ -1,3 +1,3 @@
 # hello-C
-Practice code of language C.
+Practice code by language C.
 
